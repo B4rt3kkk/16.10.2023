@@ -1,0 +1,212 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.container{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+}
+.left{
+    height: 100%;
+    width: 50%;
+    background-color: gold;
+    display: flex;
+}
+.góra{
+    display: block;
+    width: 50%;
+    height: 100%;
+}
+.dół{
+    display: block;
+    width: 50%;
+    height: 100%;
+
+}
+.right{
+    height: 100%;
+    width: 50%;
+    background-color:royalblue;
+}
+.box1{
+    height: 50%;
+    width: 100%;
+    background-color: gold;
+    outline: 1px solid black;
+    display: flex;
+    align-items:end ;
+    justify-content: end;
+}
+.box1_1{
+    height: 50%;
+    width: 50%;
+    background-color: yellowgreen;
+    outline: 1px solid black;
+    display: flex;
+    align-items:end ;
+    justify-content: end;
+    
+}
+.box1_1_1{
+    height: 50%;
+    width: 50%;
+    background-color:lightcoral;
+    outline: 1px solid black;
+    display: flex;
+    align-items:end ;
+    justify-content: end;
+}
+.box1_1_1_1{
+    height: 50%;
+    width: 50%;
+    background-color: gold;
+    outline: 1px solid black;
+    display: flex;
+    align-items:end ;
+    justify-content: end;
+}
+.box1_1_1_1_1{
+    height: 50%;
+    width: 50%;
+    background-color: royalblue;
+    outline: 1px solid black;
+    display: flex;
+    align-items: end ;
+    justify-content: end;
+}
+.box2{
+    height: 50%;
+    width: 100%;
+    background-color: gold;
+    outline: 1px solid black;
+    display: flex;
+    align-items: start ;
+    justify-content: end;
+}
+.box1_2{
+    height: 50%;
+    width: 50%;
+    background-color: yellowgreen;
+    outline: 1px solid black;
+    display: flex;
+    align-items: start ;
+    justify-content: end;
+}
+.box1_2_1{
+    height: 50%;
+    width: 50%;
+    background-color: lightcoral;
+    outline: 1px solid black;
+    display: flex;
+    align-items: start ;
+    justify-content: end;
+}
+.box1_2_1_1{
+    height: 50%;
+    width: 50%;
+    background-color: gold;
+    outline: 1px solid black;
+    display: flex;
+    align-items: start ;
+    justify-content: end;
+}
+.box1_2_1_1_1{
+    height: 50%;
+    width: 50%;
+    background-color: royalblue;
+    outline: 1px solid black;
+    display: flex;
+    align-items: start ;
+    justify-content: end;
+}
+.box3{
+    height: 50%;
+    width: 100%;
+    background-color: gold;
+    outline: 1px solid black;
+    display: flex;
+    align-items:end ;
+    justify-content: start;
+}
+.box1_3{
+    height: 50%;
+    width: 50%;
+    background-color: yellowgreen;
+    outline: 1px solid black;
+    display: flex;
+    align-items:end ;
+    justify-content: start;
+}
+.box1_3_1{
+    height: 50%;
+    width: 50%;
+    background-color: lightcoral;
+    outline: 1px solid black;
+    display: flex;
+    align-items:end ;
+    justify-content: start;
+}
+.box1_3_1_1{
+    height: 50%;
+    width: 50%;
+    background-color: gold;
+    outline: 1px solid black;
+    display: flex;
+    align-items:end ;
+    justify-content: start;
+}
+.box1_3_1_1_1{
+    height: 50%;
+    width: 50%;
+    background-color: royalblue;
+    outline: 1px solid black;
+    display: flex;
+    align-items:end ;
+    justify-content: start;
+}
+.box4{
+    height: 50%;
+    width: 100%;
+    background-color: gold;
+    outline: 1px solid black;
+    display: flex;
+    align-items:start ;
+    justify-content: start;
+}
+.box1_4{
+    height: 50%;
+    width: 50%;
+    background-color: yellowgreen;
+    outline: 1px solid black;
+    display: flex;
+    align-items:start ;
+    justify-content: start;
+}
+.box1_4_1{
+    height: 50%;
+    width: 50%;
+    background-color: lightcoral;
+    outline: 1px solid black;
+    display: flex;
+    align-items:start ;
+    justify-content: start;
+}
+.box1_4_1_1{
+    height: 50%;
+    width: 50%;
+    background-color: gold;
+    outline: 1px solid black;
+    display: flex;
+    align-items:start ;
+    justify-content: start;
+}
+.box1_4_1_1_1{
+    height: 50%;
+    width: 50%;
+    background-color: royalblue;
+    outline: 1px solid black;
+    display: flex;
+    align-items:start ;
+    justify-content: start;
+}
